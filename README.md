@@ -3,7 +3,7 @@
 <!doctype html>
 <html>
 <head>
-<title>HTML</title>
+<title>HTML-CHANGE ON 21JULY</title>
 </head>
 <body>
 <h1 align="center"><font face="Tahoma" size="10" color="green"> hai prcatce html</font></h1>
